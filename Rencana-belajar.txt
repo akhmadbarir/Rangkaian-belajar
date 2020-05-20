@@ -1,0 +1,4 @@
+Rencana belajar
+- Belajar membuka website github
+- Belajar mendaftar untuk login
+- Memulai membuat repository
