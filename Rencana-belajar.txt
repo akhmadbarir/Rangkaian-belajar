@@ -2,3 +2,5 @@ Rencana belajar
 - Belajar membuka website github
 - Belajar mendaftar untuk login
 - Memulai membuat repository
+- Membuat file baru
+- Membuat isi file
